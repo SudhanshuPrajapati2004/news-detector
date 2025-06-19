@@ -1,6 +1,6 @@
 #Fake News Prediction using Python + PHP
 
-💓 A real-time web-based system to predict heart disease using a machine learning model built in Python and integrated with a PHP frontend.
+💓 A real-time web-based system to predict Fake News using a machine learning model built in Python and integrated with a PHP frontend.
 
 ## 🔧 Technologies Used
 - Python (ML model with scikit-learn)
